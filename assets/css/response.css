@@ -1,0 +1,37 @@
+@media only screen and (max-width:576px){
+    .tourism-card{
+        position: absolute;
+        top: 80px;
+        left: 75px;
+    }
+    .tourism-card h1 {
+        font-size: 30px;
+    }
+    .tourism-card p{
+        font-size: 20px;
+    }
+    .tourism-card button {
+        padding: 5px 10px;
+    }
+    .favourite-places-heading{
+        font-size: 35px;
+    }
+    .favorite-section{
+        background-image: none;
+    }
+    .fav-button button {
+        margin-left: 90px;
+    }
+    .detailed-heading h1{
+        color: #25b1cc;
+    }
+    .detailed-heading{
+        background-image: none;
+    }
+    .fav-back-button button{
+        margin-left: 100px;
+    }
+    h2{
+        margin-top: 20px;
+    }
+}
